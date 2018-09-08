@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchiquierV3", "EchiquierV3\EchiquierV3.csproj", "{BB0181DF-DD8F-40BF-9B1B-C8D8148444BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB0181DF-DD8F-40BF-9B1B-C8D8148444BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0181DF-DD8F-40BF-9B1B-C8D8148444BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0181DF-DD8F-40BF-9B1B-C8D8148444BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0181DF-DD8F-40BF-9B1B-C8D8148444BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDCA0A15-9FFF-427D-8C70-312C9920AA69}
+	EndGlobalSection
+EndGlobal
